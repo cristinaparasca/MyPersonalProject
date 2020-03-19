@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1580314220 source:c:\users\cristina\desktop\examen\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	"Persoana.h"
+	"Profesor.h"
+	"Student.h"
+	"Disciplina.h"
+	"Curicula.h"
+
+1580312934 source:c:\users\cristina\desktop\examen\persoana.cpp
+	"Persoana.h"
+	"string.h"
+
+1580312934 c:\users\cristina\desktop\examen\persoana.h
+	<iostream>
+	<string.h>
+
+1580312048 c:\users\cristina\desktop\examen\profesor.h
+	"Persoana.h"
+	"Exceptie.h"
+
+1580309980 c:\users\cristina\desktop\examen\exceptie.h
+	<string.h>
+
+1580314032 c:\users\cristina\desktop\examen\student.h
+	"Persoana.h"
+	<string.h>
+
+1580314629 c:\users\cristina\desktop\examen\disciplina.h
+	"Profesor.h"
+
+1580314776 c:\users\cristina\desktop\examen\curicula.h
+	"Disciplina.h"
+
+1580312048 source:c:\users\cristina\desktop\examen\profesor.cpp
+	"Profesor.h"
+
+1580314032 source:c:\users\cristina\desktop\examen\student.cpp
+	"Student.h"
+
+1580314629 source:c:\users\cristina\desktop\examen\disciplina.cpp
+	"Disciplina.h"
+
